@@ -1,0 +1,17 @@
+﻿node_modules/
+**/node_modules/
+.expo/
+**/.expo/
+**/bin/
+**/obj/
+.vs/
+**/.gradle/
+**/android/build/
+**/android/app/build/
+**/ios/Pods/
+**/ios/build/
+.env
+.env.*
+*.user
+*.suo
+**/appsettings.Development.json
